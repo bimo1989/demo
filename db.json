@@ -1,14 +1,4 @@
-{
-  "Student": [
-    { "StudentID": 1, "Naam": "BeastyBoy", "Voornaam": "Rocco","Klas":"3TEM" },
+
+   [{ "StudentID": 1, "Naam": "BeastyBoy", "Voornaam": "Rocco","Klas":"3TEM" },
     { "StudentID": 2, "Naam": "Kingpin", "Voornaam": "Hamza","Klas":"6IW" },
-    { "StudentID": 3, "Naam": "Machiavelli", "Voornaam": "Rinaldo","Klas":"5TEIT" }
-  ],
-  "Broodje": [
-    { "BroodjeID": 1, "Naam": "Ei","prijs": 3 },
-    { "BroodjeID": 2, "Naam": "Tonijn","prijs": 3 }
-  ],
-  "Bestelling": [
-    {"BestelID": 1, "BroodjeID":1,"StudentID":1}
-  ]
-}
+    { "StudentID": 3, "Naam": "Machiavelli", "Voornaam": "Rinaldo","Klas":"5TEIT" }]
