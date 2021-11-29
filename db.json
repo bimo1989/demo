@@ -8,7 +8,7 @@
     { "BroodjeID": 1, "Naam": "Ei","prijs": 3 },
     { "BroodjeID": 2, "Naam": "Tonijn","prijs": 3 }
   ],
-  "Bestelling": {
-    "BestelID": 1, "BroodjeID",StudentID:1,
-  }
+  "Bestelling": [
+    {"BestelID": 1, "BroodjeID",StudentID:1}
+  ]
 }
