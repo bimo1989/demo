@@ -1,1 +1,16 @@
-[{ "StudentID": 1, "Naam": "BeastyBoy", "Voornaam": "Rocco","Klas":"3TEM" },{ "StudentID": 2, "Naam": "Kingpin", "Voornaam": "Hamza","Klas":"6IW" },{ "StudentID": 3, "Naam": "Machiavelli", "Voornaam": "Rinaldo","Klas":"5TEIT" }]
+[{
+	"StudentID": 1,
+	"Naam": "BeastyBoy",
+	"Voornaam": "Rocco",
+	"Klas": "3TEM"
+}, {
+	"StudentID": 2,
+	"Naam": "Kingpin",
+	"Voornaam": "Hamza",
+	"Klas": "6IW"
+}, {
+	"StudentID": 3,
+	"Naam": "Machiavelli",
+	"Voornaam": "Rinaldo",
+	"Klas": "5TEIT"
+}]
