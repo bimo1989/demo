@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Student": [
+    { "StudentID": 1, "Naam": "BeastyBoy", "Voornaam": "Rocco","Klas":"3TEM" },
+    { "StudentID": 2, "Naam": "Kingpin", "Voornaam": "Hamza","Klas":"6IW" },
+    { "StudentID": 3, "Naam": "Machiavelli", "Voornaam": "Rinaldo","Klas":"5TEIT" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "Broodje": [
+    { "BroodjeID": 1, "Naam": "Ei","prijs": 3 },
+    { "BroodjeID": 2, "Naam": "Tonijn","prijs": 3 }
   ],
-  "profile": {
-    "name": "typicode"
+  "Bestelling": {
+    "BestelID": 1, "BroodjeID",StudentID:1,
   }
 }
